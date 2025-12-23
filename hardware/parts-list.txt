@@ -1,0 +1,13 @@
+- NORA-B106 (MCU) 
+- MAX30102 (HR Sensor) 
+- MAX32664 (HR Algorithm) 
+- BMI270 (Step Tracking) 
+- DRV2605L (Vibration Feedback) 
+- 1.28 round spi tft display (Display) 
+- MAX17055 (Fuel Gauge) 
+- MCP73832 (Charging) 
+- MCP1703 (Low Dropout Voltage Regulator) 
+- Type C 
+- A small li-po battery 
+- 32.768 kHz Crystal
+- Buttons
