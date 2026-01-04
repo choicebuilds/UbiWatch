@@ -16,3 +16,5 @@ Chassis 3D-printed at TBD
 <img src="https://github.com/choicebuilds/JWatch/blob/main/pictures/block-diagram-v1.png" alt="Simple Block Diagram" width="600"/>
 
 [BW]: https://github.com/choicebuilds/BumWatch
+
+Changealog:
