@@ -1,15 +1,18 @@
 # JWatch
 
-## Introduction
+## Tech Stack
 
 ### This watch is entirely built from scratch. A significantly improved version of [BumWatch][BW]!
 
-*insert picture(s) here*
+MCU: NORA-B106 (nRF5340) - Dual-core ARM Cortex-M33<br />
 
-Designed using Altium Designer  
-Fabricated through JLCPCB  
-Firmware written using nRF Connect  
-Chassis 3D-printed at TBD
+Sensors: MAX30102 + MAX32664 (HR/SpO2), BMI270 (IMU)<br />
+
+Power: MAX17055 Fuel Gauge, 1.8V/3.3V dual-rail LDOs<br />
+
+Display: 1.28" Round SPI TFT (GC9A01)<br />
+
+Design Tools: Altium Designer (PCB), VS Code/nRF Connect SDK (Firmware), Solidworks (Chassis)<br />
 
 ## Features
 
